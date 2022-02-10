@@ -1,0 +1,109 @@
+h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+h3 {
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+p {
+    font-weight: 600;
+}
+
+.welcome {
+    font-family: 'Festive', cursive;
+}
+
+.orange-highlight {
+    color: orange;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0
+}
+
+.half-width {
+    width: 40%;
+    margin-left: 4%;
+    float: left;
+    padding: 2%;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.hire-me {
+    height: 40px;
+    width: 120px;
+    background-color: coral;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 10px
+}
+
+.download-resume {
+    height: 40px;
+    width: 260px;
+    background-color: coral;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 10px
+}
+
+a {
+    color: aliceblue
+}
+
+.top-banner {
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+
+section {
+    height: 500px;
+}
+
+.medium-banner {
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.single-experience {
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    height: 80%
+}
+
+.experience-area {
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+#full-stack {
+    border-left: 7px solid;
+    border-image: linear-gradient(orange, coral);
+    border-image-slice: 1;
+    background-color: white;
+}
+
+#baby {
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, purple);
+    border-image-slice: 1;
+    background-color: white;
+}
+
+p {
+    text-align: center;
+}
